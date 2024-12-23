@@ -62,8 +62,6 @@ struct ContentView: View {
                         .padding(25)
                     Spacer()
                 }
-                
-                
             }
             .navigationTitle("Note")
             .onAppear(perform: {
